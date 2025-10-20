@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Program>
+	<Module>Module1.mod</Module>
+	<Module>MainModule.mod</Module>
+	<Module>CalibData.mod</Module>
+</Program>
